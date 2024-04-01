@@ -1,0 +1,10 @@
+/out
+
+# IDE
+
+## JetBrains
+.idea
+
+## VS Code
+.vscode
+.history
